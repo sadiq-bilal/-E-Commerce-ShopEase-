@@ -1,0 +1,14 @@
+# Dependencies
+**/node_modules/
+
+# Build output
+**/dist/
+
+# Environment variables
+**/.env
+**/.env.*
+
+# Parcel cache
+**/.parcel-cache/
+
+# Keep source files, index.html and index.css
